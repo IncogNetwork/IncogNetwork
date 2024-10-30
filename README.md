@@ -1,1 +1,1 @@
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://raw.githubusercontent.com/IncogNetwork/IncogNetwork/main/incog.png "a title")
