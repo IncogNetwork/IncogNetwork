@@ -1,1 +1,1 @@
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gamestreeem&theme=tokyonight" alt="mystreak"/>
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
