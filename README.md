@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IncogNetwork&show_icons=true&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gamestreeem&theme=tokyonight" alt="mystreak"/>
